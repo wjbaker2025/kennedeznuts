@@ -162,18 +162,54 @@ Proprietary – All Rights Reserved.
 #### Repository Structure
 
 ```
-project/
-├── src/
-│   ├── client/
-│   ├── server/
-│   └── ai/
-├── docs/
-│   ├── api/
-│   ├── architecture/
-│   └── deployment/
-├── tests/
-├── scripts/
-└── README.md
+kennedeznuts
+├── Android Studio Projects
+│   └── DreamWeaverAI
+│       ├── .gradle
+│       ├── .idea
+│       ├── app
+│       │   └── src
+│       │       ├── androidTest
+│       │       │   └── java
+│       │       │       └── com
+│       │       │           └── wjbaker
+│       │       │               └── dreamweaverai
+│       │       ├── main
+│       │       │   ├── java
+│       │       │   │   └── com
+│       │       │   │       └── wjbaker
+│       │       │   │           └── dreamweaverai
+│       │       │   │               └── ui
+│       │       │   │                   └── theme
+│       │       │   └── res
+│       │       │       ├── drawable
+│       │       │       ├── mipmap-anydpi
+│       │       │       ├── mipmap-hdpi
+│       │       │       ├── mipmap-mdpi
+│       │       │       ├── mipmap-xhdpi
+│       │       │       ├── mipmap-xxhdpi
+│       │       │       ├── mipmap-xxxhdpi
+│       │       │       ├── values
+│       │       │       └── xml
+│       │       └── test
+│       │           └── java
+│       │               └── com
+│       │                   └── wjbaker
+│       │                       └── dreamweaverai
+│       └── gradle
+│           └── wrapper
+├── assets
+├── docs
+│   ├── design
+│   ├── guidelines
+│   ├── investor
+│   └── technical
+├── scripts
+├── src
+│   ├── ai
+│   ├── client
+│   └── server
+└── tests
 ```
 
 #### Development Guidelines
