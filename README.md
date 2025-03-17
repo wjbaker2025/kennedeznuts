@@ -39,34 +39,42 @@ An AI-powered platform revolutionizing fashion enterprise automation by streamli
 
 ---
 
-### Tech Stack
+## 🛠 Tech Stack  
 
-```yaml
-Languages:
-  - Python
-  - JavaScript
-  - TypeScript
-  - SQL
+### **Languages**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sqlite&logoColor=white)  
 
-Frameworks:
-  - React Native
-  - Node.js
-  - TensorFlow
-  - PyTorch
+### **Frameworks**  
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
 
-Cloud Services:
-  - AWS
-  - Azure
-  - Google Cloud
+### **Cloud Services**  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)  
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)  
 
-Tools:
-  - Docker
-  - Kubernetes
-  - Git
-  - CI/CD
-```
+### **Tools & DevOps**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![CI/CD](https://img.shields.io/badge/-CI/CD-005571?style=flat&logo=github-actions&logoColor=white)  
 
 ---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark" width="48%" />
+</p>
+
+**Profile Views:**  
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)  
 
 ### Contact
 
